@@ -12,18 +12,13 @@ var longestSubarray = function(nums) {
             zeroCount++;
         }
 
-        // shrink window if more than one zero
         while (zeroCount > 1) {
             if (nums[left] === 0) {
                 zeroCount--;
             }
             left++;
         }
-
-        // window size
         maxLen = Math.max(maxLen, right - left + 1);
     }
-
-    // must delete one element
     return maxLen - 1;
 };
