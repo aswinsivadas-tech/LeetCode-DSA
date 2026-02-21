@@ -7,7 +7,7 @@ var removeStars = function(s) {
 
     for (let ch of s) {
         if (ch === '*') {
-            stack.pop(); // remove closest non-star to the left
+            stack.pop(); 
         } else {
             stack.push(ch);
         }
