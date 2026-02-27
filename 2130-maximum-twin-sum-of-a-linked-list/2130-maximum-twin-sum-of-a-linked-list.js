@@ -1,0 +1,26 @@
+var pairSum = function(head) {
+    let slow = head;
+    let fast = head;
+    while (fast && fast.next) {
+        slow = slow.next;
+        fast = fast.next.next;
+    }
+    let prev = null;
+    while (slow) {
+        let next = slow.next;
+        slow.next = prev;
+        prev = slow;
+        slow = next;
+    }
+    let left = head;
+    let right = prev;
+    let maxSum = 0;
+
+    while (right) {
+        maxSum = Math.max(maxSum, left.val + right.val);
+        left = left.next;
+        right = right.next;
+    }
+
+    return maxSum;
+};
