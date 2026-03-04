@@ -1,0 +1,12 @@
+var searchBST = function(root, val) {
+    while (root !== null) {
+        if (root.val === val) {
+            return root;
+        } else if (val < root.val) {
+            root = root.left;
+        } else {
+            root = root.right;
+        }
+    }
+    return null;
+};
