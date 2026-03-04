@@ -73,6 +73,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0547-number-of-provinces](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -87,6 +88,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0547-number-of-provinces](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -97,5 +99,10 @@ const twoSum = (nums, target) => {
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
