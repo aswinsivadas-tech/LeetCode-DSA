@@ -93,6 +93,7 @@ const twoSum = (nums, target) => {
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -117,6 +118,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
+| [0994-rotting-oranges](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -129,5 +131,6 @@ const twoSum = (nums, target) => {
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 <!---LeetCode Topics End-->
