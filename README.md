@@ -121,6 +121,7 @@ const twoSum = (nums, target) => {
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0994-rotting-oranges](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,11 +143,13 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +166,8 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2542-maximum-subsequence-score](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 <!---LeetCode Topics End-->
