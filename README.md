@@ -100,6 +100,7 @@ const twoSum = (nums, target) => {
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Graph Theory
@@ -180,4 +181,8 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
