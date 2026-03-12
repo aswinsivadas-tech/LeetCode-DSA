@@ -133,6 +133,7 @@ const twoSum = (nums, target) => {
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ const twoSum = (nums, target) => {
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -193,4 +195,8 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
