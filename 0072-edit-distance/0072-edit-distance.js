@@ -20,9 +20,9 @@ var minDistance = function(word1, word2) {
                 dp[i][j] = dp[i - 1][j - 1];
             } else {
                 dp[i][j] = 1 + Math.min(
-                    dp[i - 1][j],     // delete
-                    dp[i][j - 1],     // insert
-                    dp[i - 1][j - 1]  // replace
+                    dp[i - 1][j],
+                    dp[i][j - 1],
+                    dp[i - 1][j - 1]
                 );
             }
 
