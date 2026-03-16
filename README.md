@@ -126,6 +126,7 @@ const twoSum = (nums, target) => {
 | [0215-kth-largest-element-in-an-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -185,6 +186,7 @@ const twoSum = (nums, target) => {
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -214,6 +216,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
