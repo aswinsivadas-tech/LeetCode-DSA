@@ -206,10 +206,12 @@ const twoSum = (nums, target) => {
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
@@ -218,4 +220,8 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
