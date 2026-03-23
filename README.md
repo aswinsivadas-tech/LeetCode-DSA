@@ -140,6 +140,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0072-edit-distance](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0072-edit-distance/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Shortest Path
@@ -176,10 +177,12 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -239,4 +242,8 @@ const twoSum = (nums, target) => {
 | [0136-single-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0338-counting-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
