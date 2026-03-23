@@ -131,6 +131,7 @@ const twoSum = (nums, target) => {
 | [0435-non-overlapping-intervals](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0739-daily-temperatures](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -259,4 +260,12 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1268-search-suggestions-system](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1268-search-suggestions-system/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
