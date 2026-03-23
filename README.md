@@ -121,6 +121,7 @@ const twoSum = (nums, target) => {
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -235,5 +236,6 @@ const twoSum = (nums, target) => {
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
