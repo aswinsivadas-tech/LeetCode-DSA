@@ -193,6 +193,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0901-online-stock-span](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0901-online-stock-span/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -264,8 +265,14 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
