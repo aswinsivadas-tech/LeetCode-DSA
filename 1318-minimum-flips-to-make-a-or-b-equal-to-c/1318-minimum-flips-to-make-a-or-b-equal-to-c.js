@@ -13,12 +13,10 @@ var minFlips = function(a, b, c) {
         let bitC = (c >> i) & 1;
 
         if (bitC === 1) {
-            // Need at least one 1
             if (bitA === 0 && bitB === 0) {
                 flips += 1;
             }
         } else {
-            // Need both 0
             if (bitA === 1 && bitB === 1) {
                 flips += 2;
             } else if (bitA === 1 || bitB === 1) {
