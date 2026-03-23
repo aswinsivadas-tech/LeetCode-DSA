@@ -128,6 +128,7 @@ const twoSum = (nums, target) => {
 | [0215-kth-largest-element-in-an-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -163,6 +164,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1268-search-suggestions-system](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -196,6 +198,7 @@ const twoSum = (nums, target) => {
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Two Pointers
@@ -228,6 +231,7 @@ const twoSum = (nums, target) => {
 | [0072-edit-distance](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0338-counting-bits/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
