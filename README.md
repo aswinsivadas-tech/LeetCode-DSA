@@ -149,6 +149,7 @@ const twoSum = (nums, target) => {
 | [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1268-search-suggestions-system](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1268-search-suggestions-system/) | Medium |
 ## Shortest Path
@@ -193,6 +194,7 @@ const twoSum = (nums, target) => {
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -335,4 +337,8 @@ const twoSum = (nums, target) => {
 | [1934-confirmation-rate](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
