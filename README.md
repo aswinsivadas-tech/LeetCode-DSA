@@ -147,6 +147,7 @@ const twoSum = (nums, target) => {
 | [0003-longest-substring-without-repeating-characters](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0072-edit-distance](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
@@ -194,6 +195,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0076-minimum-window-substring](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -343,5 +345,6 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
