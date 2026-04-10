@@ -278,6 +278,7 @@ const twoSum = (nums, target) => {
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0196-delete-duplicate-emails/) | Easy |
