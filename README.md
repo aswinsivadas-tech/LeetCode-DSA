@@ -147,6 +147,7 @@ const twoSum = (nums, target) => {
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0072-edit-distance](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0072-edit-distance/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0242-valid-anagram](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0399-evaluate-division](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1268-search-suggestions-system](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1268-search-suggestions-system/) | Medium |
@@ -168,6 +169,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1268-search-suggestions-system](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1268-search-suggestions-system/) | Medium |
@@ -190,6 +192,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0242-valid-anagram](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Design
 | Problem Name | Difficulty |
