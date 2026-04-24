@@ -129,6 +129,7 @@ const twoSum = (nums, target) => {
 | [0136-single-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0216-combination-sum-iii/) | Medium |
@@ -231,6 +232,7 @@ const twoSum = (nums, target) => {
 | [0027-remove-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Simulation
@@ -250,6 +252,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
+| [0189-rotate-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
