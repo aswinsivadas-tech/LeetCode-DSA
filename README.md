@@ -122,6 +122,7 @@ const twoSum = (nums, target) => {
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
@@ -221,6 +222,7 @@ const twoSum = (nums, target) => {
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
