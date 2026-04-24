@@ -124,6 +124,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -224,6 +225,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
