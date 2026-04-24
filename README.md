@@ -127,6 +127,7 @@ const twoSum = (nums, target) => {
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
@@ -222,6 +223,7 @@ const twoSum = (nums, target) => {
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -261,6 +263,7 @@ const twoSum = (nums, target) => {
 | [0062-unique-paths](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/aswinsivadas-tech/LeetCode-DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
